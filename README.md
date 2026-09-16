@@ -1,5 +1,12 @@
 # Native SDK
 
+<p>
+  <a href="https://vercel.com/labs#active-experiments"><img alt="Vercel Labs Experiment" src="https://img.shields.io/badge/Labs%20Experiment-000000.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000" height="28"></a>
+  <a href="https://www.npmjs.com/package/@native-sdk/cli"><img alt="npm version: @native-sdk/cli" src="https://img.shields.io/npm/v/%40native-sdk%2Fcli.svg?style=for-the-badge&amp;labelColor=000000" height="28"></a>
+  <a href="https://github.com/vercel-labs/native/blob/main/LICENSE"><img alt="License: Apache-2.0" src="https://img.shields.io/github/license/vercel-labs/native.svg?style=for-the-badge&amp;labelColor=000000" height="28"></a>
+  <a href="https://www.npmjs.com/package/@native-sdk/cli"><img alt="npm downloads per month: @native-sdk/cli" src="https://img.shields.io/npm/dm/%40native-sdk%2Fcli.svg?style=for-the-badge&amp;labelColor=000000&amp;label=npm%20downloads" height="28"></a>
+</p>
+
 **Native SDK is the complete toolkit for building native desktop applications.**
 
 Native SDK exists because expressive UI and native performance should not be competing goals. Developers often choose web-based runtimes because they offer freedom, speed and control over the product experience. But that freedom often comes with a heavy runtime. Native SDK keeps the expressive authoring model and replaces the runtime with native rendering.
